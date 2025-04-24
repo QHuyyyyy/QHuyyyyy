@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Quoc Huy and I'm a coder</h2>
+<h2 align="left">Hi 👋 My name is Quoc Huy and I'm a web developer</h2>
 
 🔭 I’m currently studying<br>🌱 I’m currently learning Nextjs & Expressjs<br>💬 Ask me about ...<br>⚡ Fun fact: <br>I'm "colder"<br>
 
